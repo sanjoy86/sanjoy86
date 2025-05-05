@@ -1,17 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjoy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjoy Deb
 ===========================================================================================================================
 
-Data Analyst | Python Enthusiast | Lifelong Learner
+Aspiring Data Analyst | Career Changer
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hello, I’m Sanjoy Deb, a career changer data analyst based in Wembley, London, making an exciting transition into the data analytics field. I hold a Master of Business Administration from Anglia Ruskin University (2015), and I’ve always been drawn to data-driven problem solving.
+This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions.
 
 ## About Me 🎓 
 
 
--- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
+Currently, I’m enrolled in the JUST IT Data Technician Bootcamp, where I’m gaining hands-on experience with industry-standard tools like Excel, SQL, Python, Power BI, and Tableau. Through this program, I’m building a strong foundation in data visualization and statistical analysis, equipping myself with the skills needed to thrive in the data industry.
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
