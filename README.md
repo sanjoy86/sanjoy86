@@ -17,12 +17,17 @@ Currently, I’m enrolled in the JUST IT Data Technician Bootcamp, where I’m g
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 
-## Projects
+## Technical Skills: 
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+Excel: Data cleaning, Dashboard creation, reporting, and visualization.  
+
+SQL: Writing queries to extract, filter, and understand SELECT, WHERE GROUP BY, and JOIN operations. 
+
+Tableau& Power BI: Building dashboards and creating reports. 
+
+Python, Matplotlib, MS Azure, Electronic file management, Internet research, and basic office applications, including MS Office (Word, Outlook, etc). 
+
+Licenses: Full UK Driving License, SIA Door Supervisor in Private Security Industry License, Emergency First Aid at Work 
 
 
 ### R
